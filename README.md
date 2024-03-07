@@ -12,15 +12,15 @@ For varying values of `k`. As such, I did so.
 
 ## Results
 
-| `k` Value | Graph                           | Notes                                                                                                                                                            |
-| --------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2         | [img](plots/fobonacci_2.png)    | As expected, all values are divisible by 2.                                                                                                                      |
-| 5         | [img](plots/fobonacci_5.png)    | You can't particularly make out much from this graph due to the oscillatory nature.                                                                              |
-| 23        | [img](plots/fobonacci_23.png)   | This is a similar oscillation, but interestingly, an iterative pattern emerges.                                                                                  |
-| 32        | [img](plots/fobonacci_32.png)   | The divisibility with powers of 2 increases significantly.                                                                                                       |
-| 64        | [img](plots/fobonacci_64.png)   | Similarly, divisibility with higher powers of 2 also shows up.                                                                                                   |
-| 1000      | [img](plots/fobonacci_1000.png) | This one is fairly interesting - This looks like fairly pseudo-random data, and could be used (potentially) for non-cryptographic random number generation work. |
-| 2300      | [img](plots/fobonacci_2300.png) | This graph demonstrates how poor this function is from a PRNG perspective. Interesting, nonetheless.                                                             |
+| `k` Value | Graph                            | Notes                                                                                                                                                            |
+| --------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2         | ![img](plots/fobonacci_2.png)    | As expected, all values are divisible by 2.                                                                                                                      |
+| 5         | ![img](plots/fobonacci_5.png)    | You can't particularly make out much from this graph due to the oscillatory nature.                                                                              |
+| 23        | ![img](plots/fobonacci_23.png)   | This is a similar oscillation, but interestingly, an iterative pattern emerges.                                                                                  |
+| 32        | ![img](plots/fobonacci_32.png)   | The divisibility with powers of 2 increases significantly.                                                                                                       |
+| 64        | ![img](plots/fobonacci_64.png)   | Similarly, divisibility with higher powers of 2 also shows up.                                                                                                   |
+| 1000      | ![img](plots/fobonacci_1000.png) | This one is fairly interesting - This looks like fairly pseudo-random data, and could be used (potentially) for non-cryptographic random number generation work. |
+| 2300      | ![img](plots/fobonacci_2300.png) | This graph demonstrates how poor this function is from a PRNG perspective. Interesting, nonetheless.                                                             |
 
 # License TL;DR
 
